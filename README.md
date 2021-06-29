@@ -25,7 +25,7 @@ Future Plans:
 3. Google analytics integration
 
 ### Building with Docker
-This section assumes you've already installed and are somewhat familiare with Docker.
+This section assumes you've already installed and are somewhat familiar with Docker. The instructions here cover building and running the container locally.
 
 #### Build the Container
 To build the container from the application root, simply run the following command. The `-t` (for `tag`) is optional, but can help you remember what the image is for when running `docker images`.
